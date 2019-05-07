@@ -1,2 +1,2 @@
-# Automatic_Formatted_Email_Sending
-Sending formatted email Automatic ly from spreadsheet using Google Script
+# Automated_Formatted_Email_Sending
+Sending formatted email Automatically from spreadsheet using Google Script
